@@ -1,2 +1,2 @@
-a simple blockchain system using go language to implement
-provide the API interface to access it
+1.a simple blockchain system using go language to implement
+2.provide the API interface to access it
